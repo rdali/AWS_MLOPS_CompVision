@@ -1,4 +1,4 @@
-# AWSMLOpsAssignment
+# AWS MLOPs Computer Vision: Cancer Detection
 Code repo for AWS MLOPS SageMaker Pilot
 
 
